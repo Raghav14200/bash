@@ -1,0 +1,1 @@
+echo $SHELL -> this command is used to know which shell is currently being used.
