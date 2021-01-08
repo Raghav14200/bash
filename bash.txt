@@ -6,3 +6,5 @@ cd ->this command is used to change directory.
 cat->is used to view the file or combine more than one file.
 mkdir->this command is used to create directory.
 mkdir -p ->this command is used to create directories,it creates it even if it does not exist.
+head -> this command prints first 10 lines of file
+head -n 20 ->this command prints first 20 lines of file
