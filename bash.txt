@@ -15,3 +15,8 @@ wc -l ->this command is used to count no of lines in file
 wc -c -> this command counts no of bytes in file
 wc -w -> this command counts no of words in file
 curl -s ->this command loads ths http file and displays its content
+tail -> this command prints last 10 lines of file
+date -> this command is used to print date
+date +'%Y'->this command displays the current year
+date +'%m'->this command displays the current month
+date +'%d'->this command displays the current date
