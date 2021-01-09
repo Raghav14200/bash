@@ -2,9 +2,12 @@ echo $SHELL -> this command is used to know which shell is currently being used.
 ls ->this command is used to list files in that directory.
 pwd ->this command is used to know present working directory.
 cd ->this command is used to change directory.  
-
 cat->is used to view the file or combine more than one file.
 mkdir->this command is used to create directory.
 mkdir -p ->this command is used to create directories,it creates it even if it does not exist.
 head -> this command prints first 10 lines of file
 head -n 20 ->this command prints first 20 lines of file
+| -> this is used to feed standard output of one program to input of another program
+cp -> this command is used to copy files
+mv -> this command is used to rename or move files
+wc -> this command is used to count no of lines,word and bytes
