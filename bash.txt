@@ -11,3 +11,7 @@ head -n 20 ->this command prints first 20 lines of file
 cp -> this command is used to copy files
 mv -> this command is used to rename or move files
 wc -> this command is used to count no of lines,word and bytes
+wc -l ->this command is used to count no of lines in file
+wc -c -> this command counts no of bytes in file
+wc -w -> this command counts no of words in file
+curl -s ->this command loads ths http file and displays its content
