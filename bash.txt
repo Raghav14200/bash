@@ -20,3 +20,4 @@ date -> this command is used to print date
 date +'%Y'->this command displays the current year
 date +'%m'->this command displays the current month
 date +'%d'->this command displays the current date
+code . -> this command is used to open vs code in that file.
